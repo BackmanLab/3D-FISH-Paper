@@ -1,0 +1,61 @@
+﻿Condition,Replicate,Cell Type,#Cells,Statistic
+CRISPR-Sirius,1,All Cells,35252,
+CRISPR-Sirius,1,Live Cells,23106,65.5
+CRISPR-Sirius,1,APC-A+,15971,69.1
+CRISPR-Sirius,1,APC-A-,7135,30.9
+CRISPR-Sirius,1,FITC-A+,339,1.47
+CRISPR-Sirius,1,FITC-A-,22767,98.5
+CRISPR-Sirius,1,Pacific Blue-A+,10,0.043
+CRISPR-Sirius,1,Pacific Blue-A-,23096,100
+CRISPR-Sirius,1,PerCP-A+,1929,8.35
+CRISPR-Sirius,1,PerCP-A-,21177,91.7
+CRISPR-Sirius,2,All Cells,34578,
+CRISPR-Sirius,2,Live Cells,22994,66.5
+CRISPR-Sirius,2,APC-A+,15691,68.2
+CRISPR-Sirius,2,APC-A-,7303,31.8
+CRISPR-Sirius,2,FITC-A+,259,1.13
+CRISPR-Sirius,2,FITC-A-,22735,98.9
+CRISPR-Sirius,2,Pacific Blue-A+,11,0.048
+CRISPR-Sirius,2,Pacific Blue-A-,22983,100
+CRISPR-Sirius,2,PerCP-A+,1756,7.64
+CRISPR-Sirius,2,PerCP-A-,21238,92.4
+CRISPR-Sirius,3,All Cells,34257,
+CRISPR-Sirius,3,Live Cells,22743,66.4
+CRISPR-Sirius,3,APC-A+,15640,68.8
+CRISPR-Sirius,3,APC-A-,7103,31.2
+CRISPR-Sirius,3,FITC-A+,268,1.18
+CRISPR-Sirius,3,FITC-A-,22475,98.8
+CRISPR-Sirius,3,Pacific Blue-A+,8,0.035
+CRISPR-Sirius,3,Pacific Blue-A-,22735,100
+CRISPR-Sirius,3,PerCP-A+,1744,7.67
+CRISPR-Sirius,3,PerCP-A-,20999,92.3
+WT,1,All Cells,37914,
+WT,1,Live Cells,26827,70.8
+WT,1,APC-A+,223,0.83
+WT,1,APC-A-,26604,99.2
+WT,1,FITC-A+,593,2.21
+WT,1,FITC-A-,26234,97.8
+WT,1,Pacific Blue-A+,417,1.55
+WT,1,Pacific Blue-A-,26410,98.4
+WT,1,PerCP-A+,380,1.42
+WT,1,PerCP-A-,26447,98.6
+WT,2,All Cells,35425,
+WT,2,Live Cells,26696,75.4
+WT,2,APC-A+,19,0.071
+WT,2,APC-A-,26677,99.9
+WT,2,FITC-A+,79,0.3
+WT,2,FITC-A-,26617,99.7
+WT,2,Pacific Blue-A+,2,0.00749
+WT,2,Pacific Blue-A-,26694,100
+WT,2,PerCP-A+,31,0.12
+WT,2,PerCP-A-,26665,99.9
+WT,3,All Cells,38463,
+WT,3,Live Cells,26549,69
+WT,3,APC-A+,22,0.083
+WT,3,APC-A-,26527,99.9
+WT,3,FITC-A+,48,0.18
+WT,3,FITC-A-,26501,99.8
+WT,3,Pacific Blue-A+,4,0.015
+WT,3,Pacific Blue-A-,26545,100
+WT,3,PerCP-A+,28,0.11
+WT,3,PerCP-A-,26521,99.9
